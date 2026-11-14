@@ -1,0 +1,6800 @@
+[
+  {
+    "school": "가야대학교(김해)",
+    "region": "경남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7239309.3,
+    "tuition2026": 7446294.0,
+    "difference": 206984.7,
+    "rate": 2.859177,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6359893.9,
+        "tuition2026": 6478040.9
+      },
+      "자연과학": {
+        "tuition2025": 7534000.0,
+        "tuition2026": 7740000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "가천대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8812617.8,
+    "tuition2026": 9094425.6,
+    "difference": 281807.8,
+    "rate": 3.197776,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7576022.8,
+        "tuition2026": 7871353.6
+      },
+      "자연과학": {
+        "tuition2025": 8805371.2,
+        "tuition2026": 9125927.5
+      },
+      "예체능": {
+        "tuition2025": 9622089.6,
+        "tuition2026": 9856019.0
+      },
+      "공학": {
+        "tuition2025": 9562567.8,
+        "tuition2026": 9817461.9
+      },
+      "의학": {
+        "tuition2025": 10374000.0,
+        "tuition2026": 10651428.6
+      }
+    }
+  },
+  {
+    "school": "가톨릭관동대학교",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7505368.9,
+    "tuition2026": 7725838.9,
+    "difference": 220470.0,
+    "rate": 2.937497,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6595136.5,
+        "tuition2026": 6731562.9
+      },
+      "자연과학": {
+        "tuition2025": 7998357.9,
+        "tuition2026": 8463848.6
+      },
+      "예체능": {
+        "tuition2025": 8522435.7,
+        "tuition2026": 8702722.6
+      },
+      "공학": {
+        "tuition2025": 8549265.1,
+        "tuition2026": 8735187.5
+      },
+      "의학": {
+        "tuition2025": 10390000.0,
+        "tuition2026": 11066000.0
+      }
+    }
+  },
+  {
+    "school": "가톨릭꽃동네대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7506277.8,
+    "tuition2026": 7468777.8,
+    "difference": -37500.0,
+    "rate": -0.499582,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6655500.0,
+        "tuition2026": 6618000.0
+      },
+      "자연과학": {
+        "tuition2025": 7833500.0,
+        "tuition2026": 7796000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "가톨릭대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7493634.7,
+    "tuition2026": 7725223.0,
+    "difference": 231588.3,
+    "rate": 3.090467,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6435650.1,
+        "tuition2026": 6619374.4
+      },
+      "자연과학": {
+        "tuition2025": 7813473.6,
+        "tuition2026": 7955226.1
+      },
+      "예체능": {
+        "tuition2025": 9004000.0,
+        "tuition2026": 9254000.0
+      },
+      "공학": {
+        "tuition2025": 8719758.6,
+        "tuition2026": 8797801.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "가톨릭대학교 _제2캠퍼스",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9728300.7,
+    "tuition2026": 9999517.1,
+    "difference": 271216.4,
+    "rate": 2.787911,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 8899241.1,
+        "tuition2026": 9146355.7
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 10856000.0,
+        "tuition2026": 11160000.0
+      }
+    }
+  },
+  {
+    "school": "가톨릭대학교 _제3캠퍼스",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6450000.0,
+    "tuition2026": 6630000.0,
+    "difference": 180000.0,
+    "rate": 2.790698,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6450000.0,
+        "tuition2026": 6630000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "감리교신학대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6820923.7,
+    "tuition2026": 6941350.0,
+    "difference": 120426.3,
+    "rate": 1.765542,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6820923.7,
+        "tuition2026": 6941350.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "강남대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7968388.7,
+    "tuition2026": 8206173.1,
+    "difference": 237784.4,
+    "rate": 2.984096,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7248339.4,
+        "tuition2026": 7478673.2
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 9242376.8,
+        "tuition2026": 9502764.5
+      },
+      "공학": {
+        "tuition2025": 9094084.1,
+        "tuition2026": 9356010.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "강서대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7924720.2,
+    "tuition2026": 7933023.5,
+    "difference": 8303.3,
+    "rate": 0.104777,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7287551.3,
+        "tuition2026": 7288641.1
+      },
+      "자연과학": {
+        "tuition2025": 8980000.0,
+        "tuition2026": 8980000.0
+      },
+      "예체능": {
+        "tuition2025": 8855000.0,
+        "tuition2026": 8855000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "강원대학교",
+    "region": "강원",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4179919.0,
+    "tuition2026": 4236211.1,
+    "difference": 56292.1,
+    "rate": 1.346727,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3444907.0,
+        "tuition2026": 3442287.8
+      },
+      "자연과학": {
+        "tuition2025": 4345621.5,
+        "tuition2026": 4410889.6
+      },
+      "예체능": {
+        "tuition2025": 4569547.4,
+        "tuition2026": 4568860.0
+      },
+      "공학": {
+        "tuition2025": 4422248.7,
+        "tuition2026": 4422610.9
+      },
+      "의학": {
+        "tuition2025": 8506384.4,
+        "tuition2026": 8598989.9
+      }
+    }
+  },
+  {
+    "school": "강원대학교 _제2캠퍼스",
+    "region": "강원",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4242824.4,
+    "tuition2026": 4193092.9,
+    "difference": -49731.5,
+    "rate": -1.172132,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3542414.8,
+        "tuition2026": 3529546.3
+      },
+      "자연과학": {
+        "tuition2025": 4201127.3,
+        "tuition2026": 4197850.4
+      },
+      "예체능": {
+        "tuition2025": 4574026.8,
+        "tuition2026": 4568963.7
+      },
+      "공학": {
+        "tuition2025": 4436000.0,
+        "tuition2026": 4330923.1
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "건국대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8748292.8,
+    "tuition2026": 8985986.4,
+    "difference": 237693.6,
+    "rate": 2.717028,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7093388.9,
+        "tuition2026": 7302582.0
+      },
+      "자연과학": {
+        "tuition2025": 8610007.3,
+        "tuition2026": 8872626.9
+      },
+      "예체능": {
+        "tuition2025": 9572867.8,
+        "tuition2026": 9862270.0
+      },
+      "공학": {
+        "tuition2025": 9718284.8,
+        "tuition2026": 9917198.4
+      },
+      "의학": {
+        "tuition2025": 10700000.0,
+        "tuition2026": 11018000.0
+      }
+    }
+  },
+  {
+    "school": "건국대학교(글로컬) _분교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8570181.3,
+    "tuition2026": 8838628.7,
+    "difference": 268447.4,
+    "rate": 3.132342,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7133196.2,
+        "tuition2026": 7351752.0
+      },
+      "자연과학": {
+        "tuition2025": 8586586.3,
+        "tuition2026": 8849870.5
+      },
+      "예체능": {
+        "tuition2025": 9515847.7,
+        "tuition2026": 9800738.8
+      },
+      "공학": {
+        "tuition2025": 9474782.8,
+        "tuition2026": 9754018.1
+      },
+      "의학": {
+        "tuition2025": 12136000.0,
+        "tuition2026": 12136000.0
+      }
+    }
+  },
+  {
+    "school": "건양대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6625935.9,
+    "tuition2026": 6810819.3,
+    "difference": 184883.4,
+    "rate": 2.790299,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6091962.1,
+        "tuition2026": 6251626.9
+      },
+      "자연과학": {
+        "tuition2025": 7356193.5,
+        "tuition2026": 7486353.2
+      },
+      "예체능": {
+        "tuition2025": 6894000.0,
+        "tuition2026": 7064000.0
+      },
+      "공학": {
+        "tuition2025": 7470000.0,
+        "tuition2026": 7606000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "건양대학교 _제2캠퍼스",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7641372.9,
+    "tuition2026": 7864692.8,
+    "difference": 223319.9,
+    "rate": 2.92251,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5900000.0,
+        "tuition2026": 6008000.0
+      },
+      "자연과학": {
+        "tuition2025": 7574016.8,
+        "tuition2026": 7850721.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 7620000.0,
+        "tuition2026": 7766260.4
+      },
+      "의학": {
+        "tuition2025": 10490000.0,
+        "tuition2026": 10856000.0
+      }
+    }
+  },
+  {
+    "school": "경기대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7796243.6,
+    "tuition2026": 8028841.1,
+    "difference": 232597.5,
+    "rate": 2.983456,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6812125.6,
+        "tuition2026": 7003518.8
+      },
+      "자연과학": {
+        "tuition2025": 8051172.4,
+        "tuition2026": 8275862.4
+      },
+      "예체능": {
+        "tuition2025": 8432243.6,
+        "tuition2026": 8673745.1
+      },
+      "공학": {
+        "tuition2025": 8737279.2,
+        "tuition2026": 8905794.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경기대학교 _제2캠퍼스",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7548841.5,
+    "tuition2026": 7800638.0,
+    "difference": 251796.5,
+    "rate": 3.335565,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6828025.1,
+        "tuition2026": 7020600.8
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8792168.1,
+        "tuition2026": 9037942.9
+      },
+      "공학": {
+        "tuition2025": 7733000.0,
+        "tuition2026": 7844961.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경남대학교",
+    "region": "경남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6850262.3,
+    "tuition2026": 7060677.8,
+    "difference": 210415.5,
+    "rate": 3.071642,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5981967.0,
+        "tuition2026": 6151242.4
+      },
+      "자연과학": {
+        "tuition2025": 6939866.7,
+        "tuition2026": 7193856.2
+      },
+      "예체능": {
+        "tuition2025": 7812237.0,
+        "tuition2026": 7932240.1
+      },
+      "공학": {
+        "tuition2025": 7861088.3,
+        "tuition2026": 8071553.7
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경동대학교",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6728666.7,
+    "tuition2026": 6782000.0,
+    "difference": 53333.3,
+    "rate": 0.792628,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6728666.7,
+        "tuition2026": 6782000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경동대학교 _제3캠퍼스",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8954410.8,
+    "tuition2026": 9054457.1,
+    "difference": 100046.3,
+    "rate": 1.117285,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6929400.0,
+        "tuition2026": 7040000.0
+      },
+      "자연과학": {
+        "tuition2025": 9048378.8,
+        "tuition2026": 9094829.4
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경동대학교 _제4캠퍼스",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8137293.6,
+    "tuition2026": 8146586.1,
+    "difference": 9292.5,
+    "rate": 0.114196,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7082580.0,
+        "tuition2026": 7099233.7
+      },
+      "자연과학": {
+        "tuition2025": 8589174.6,
+        "tuition2026": 8649304.3
+      },
+      "예체능": {
+        "tuition2025": 8994693.1,
+        "tuition2026": 9035881.2
+      },
+      "공학": {
+        "tuition2025": 8741874.9,
+        "tuition2026": 8784000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경북대학교",
+    "region": "대구",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4514173.1,
+    "tuition2026": 4527790.5,
+    "difference": 13617.4,
+    "rate": 0.301659,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3557732.3,
+        "tuition2026": 3558923.3
+      },
+      "자연과학": {
+        "tuition2025": 4565276.0,
+        "tuition2026": 4591635.2
+      },
+      "예체능": {
+        "tuition2025": 4675279.2,
+        "tuition2026": 4673472.6
+      },
+      "공학": {
+        "tuition2025": 4633911.7,
+        "tuition2026": 4620533.3
+      },
+      "의학": {
+        "tuition2025": 8074942.7,
+        "tuition2026": 8074942.7
+      }
+    }
+  },
+  {
+    "school": "경상국립대학교",
+    "region": "경남",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4078055.3,
+    "tuition2026": 4095673.4,
+    "difference": 17618.1,
+    "rate": 0.432022,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3275309.8,
+        "tuition2026": 3275063.3
+      },
+      "자연과학": {
+        "tuition2025": 4176106.3,
+        "tuition2026": 4225712.9
+      },
+      "예체능": {
+        "tuition2025": 4354509.8,
+        "tuition2026": 4354389.0
+      },
+      "공학": {
+        "tuition2025": 4330000.0,
+        "tuition2026": 4330000.0
+      },
+      "의학": {
+        "tuition2025": 8312888.9,
+        "tuition2026": 8312888.9
+      }
+    }
+  },
+  {
+    "school": "경성대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7328471.4,
+    "tuition2026": 7561386.3,
+    "difference": 232914.9,
+    "rate": 3.178219,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6182905.0,
+        "tuition2026": 6383340.4
+      },
+      "자연과학": {
+        "tuition2025": 7984896.4,
+        "tuition2026": 8352932.4
+      },
+      "예체능": {
+        "tuition2025": 8189229.4,
+        "tuition2026": 8411052.9
+      },
+      "공학": {
+        "tuition2025": 8232980.2,
+        "tuition2026": 8462502.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경운대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8093237.8,
+    "tuition2026": 8046670.2,
+    "difference": -46567.6,
+    "rate": -0.575389,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6506196.9,
+        "tuition2026": 6500891.1
+      },
+      "자연과학": {
+        "tuition2025": 8315063.4,
+        "tuition2026": 8311760.5
+      },
+      "예체능": {
+        "tuition2025": 8423510.4,
+        "tuition2026": 8421423.5
+      },
+      "공학": {
+        "tuition2025": 8650863.5,
+        "tuition2026": 8681348.7
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경일대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7753759.3,
+    "tuition2026": 7997556.5,
+    "difference": 243797.2,
+    "rate": 3.144245,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6346003.3,
+        "tuition2026": 6620764.0
+      },
+      "자연과학": {
+        "tuition2025": 8112564.2,
+        "tuition2026": 8328693.1
+      },
+      "예체능": {
+        "tuition2025": 8100866.8,
+        "tuition2026": 8339879.4
+      },
+      "공학": {
+        "tuition2025": 8094980.4,
+        "tuition2026": 8326034.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "경희대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8441574.6,
+    "tuition2026": 8701099.7,
+    "difference": 259525.1,
+    "rate": 3.074368,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6857502.8,
+        "tuition2026": 7067273.0
+      },
+      "자연과학": {
+        "tuition2025": 9044369.7,
+        "tuition2026": 9353731.1
+      },
+      "예체능": {
+        "tuition2025": 8933206.8,
+        "tuition2026": 9198003.6
+      },
+      "공학": {
+        "tuition2025": 9064258.5,
+        "tuition2026": 9303009.1
+      },
+      "의학": {
+        "tuition2025": 11888214.8,
+        "tuition2026": 12238872.5
+      }
+    }
+  },
+  {
+    "school": "계명대학교",
+    "region": "대구",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8079008.3,
+    "tuition2026": 8236598.9,
+    "difference": 157590.6,
+    "rate": 1.950618,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6627964.6,
+        "tuition2026": 6829564.7
+      },
+      "자연과학": {
+        "tuition2025": 8806849.9,
+        "tuition2026": 9042564.2
+      },
+      "예체능": {
+        "tuition2025": 9385915.5,
+        "tuition2026": 9511969.0
+      },
+      "공학": {
+        "tuition2025": 9038078.0,
+        "tuition2026": 9232499.4
+      },
+      "의학": {
+        "tuition2025": 10834000.0,
+        "tuition2026": 11234000.0
+      }
+    }
+  },
+  {
+    "school": "고려대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8814464.2,
+    "tuition2026": 9091429.8,
+    "difference": 276965.6,
+    "rate": 3.142172,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7602954.1,
+        "tuition2026": 7827285.4
+      },
+      "자연과학": {
+        "tuition2025": 9156476.8,
+        "tuition2026": 9421185.3
+      },
+      "예체능": {
+        "tuition2025": 9426057.7,
+        "tuition2026": 9699711.5
+      },
+      "공학": {
+        "tuition2025": 10223456.9,
+        "tuition2026": 10501472.8
+      },
+      "의학": {
+        "tuition2025": 13034000.0,
+        "tuition2026": 13412000.0
+      }
+    }
+  },
+  {
+    "school": "고려대학교(세종) _분교",
+    "region": "세종",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8939543.3,
+    "tuition2026": 9214313.7,
+    "difference": 274770.4,
+    "rate": 3.073651,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7530529.4,
+        "tuition2026": 7754174.8
+      },
+      "자연과학": {
+        "tuition2025": 9314651.2,
+        "tuition2026": 9655203.9
+      },
+      "예체능": {
+        "tuition2025": 8873187.5,
+        "tuition2026": 9130959.0
+      },
+      "공학": {
+        "tuition2025": 10224176.5,
+        "tuition2026": 10519866.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "고신대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7057229.3,
+    "tuition2026": 7280970.9,
+    "difference": 223741.6,
+    "rate": 3.170389,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6126806.0,
+        "tuition2026": 6307605.4
+      },
+      "자연과학": {
+        "tuition2025": 7337240.9,
+        "tuition2026": 7518851.1
+      },
+      "예체능": {
+        "tuition2025": 7750384.6,
+        "tuition2026": 7900370.4
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 9915000.0,
+        "tuition2026": 10175000.0
+      }
+    }
+  },
+  {
+    "school": "광신대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6176458.1,
+    "tuition2026": 6367853.5,
+    "difference": 191395.4,
+    "rate": 3.098789,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5807337.3,
+        "tuition2026": 6004984.4
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 7252000.0,
+        "tuition2026": 7372000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "광운대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8330757.9,
+    "tuition2026": 8595586.5,
+    "difference": 264828.6,
+    "rate": 3.178926,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7208339.3,
+        "tuition2026": 7403234.4
+      },
+      "자연과학": {
+        "tuition2025": 7906863.6,
+        "tuition2026": 8124692.3
+      },
+      "예체능": {
+        "tuition2025": 7920000.0,
+        "tuition2026": 8134000.0
+      },
+      "공학": {
+        "tuition2025": 9001922.7,
+        "tuition2026": 9239442.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "광주과학기술원",
+    "region": "전남광주",
+    "establishment": "특별법법인",
+    "status": "기존",
+    "tuition2025": 2060000.0,
+    "tuition2026": 2060000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 2060000.0,
+        "tuition2026": 2060000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 2060000.0,
+        "tuition2026": 2060000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "광주대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6919352.4,
+    "tuition2026": 7133783.6,
+    "difference": 214431.2,
+    "rate": 3.099007,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6501979.4,
+        "tuition2026": 6683160.2
+      },
+      "자연과학": {
+        "tuition2025": 7171242.7,
+        "tuition2026": 7488000.0
+      },
+      "예체능": {
+        "tuition2025": 7304892.9,
+        "tuition2026": 7488000.0
+      },
+      "공학": {
+        "tuition2025": 7298907.4,
+        "tuition2026": 7488000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "광주여자대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6600791.0,
+    "tuition2026": 6809350.9,
+    "difference": 208559.9,
+    "rate": 3.15962,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5856047.3,
+        "tuition2026": 6045482.7
+      },
+      "자연과학": {
+        "tuition2025": 7058245.3,
+        "tuition2026": 7287563.5
+      },
+      "예체능": {
+        "tuition2025": 6778000.0,
+        "tuition2026": 7020000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립경국대학교",
+    "region": "경북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3787927.3,
+    "tuition2026": 3844993.9,
+    "difference": 57066.6,
+    "rate": 1.506539,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3338636.0,
+        "tuition2026": 3441168.5
+      },
+      "자연과학": {
+        "tuition2025": 3873358.8,
+        "tuition2026": 3929508.0
+      },
+      "예체능": {
+        "tuition2025": 3929678.6,
+        "tuition2026": 3977129.7
+      },
+      "공학": {
+        "tuition2025": 4163570.4,
+        "tuition2026": 4192497.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립공주대학교",
+    "region": "충남",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3858723.3,
+    "tuition2026": 3883800.8,
+    "difference": 25077.5,
+    "rate": 0.649891,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3246840.2,
+        "tuition2026": 3295551.5
+      },
+      "자연과학": {
+        "tuition2025": 3880560.4,
+        "tuition2026": 3904451.5
+      },
+      "예체능": {
+        "tuition2025": 4180803.2,
+        "tuition2026": 4180803.2
+      },
+      "공학": {
+        "tuition2025": 4246183.2,
+        "tuition2026": 4262530.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립군산대학교",
+    "region": "전북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3897282.2,
+    "tuition2026": 3891106.1,
+    "difference": -6176.1,
+    "rate": -0.158472,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3318000.0,
+        "tuition2026": 3318000.0
+      },
+      "자연과학": {
+        "tuition2025": 3888536.1,
+        "tuition2026": 3903952.3
+      },
+      "예체능": {
+        "tuition2025": 4138859.4,
+        "tuition2026": 4121694.9
+      },
+      "공학": {
+        "tuition2025": 4238000.0,
+        "tuition2026": 4238000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립금오공과대학교",
+    "region": "경북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3770399.6,
+    "tuition2026": 3773623.1,
+    "difference": 3223.5,
+    "rate": 0.085495,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3400400.0,
+        "tuition2026": 3400400.0
+      },
+      "자연과학": {
+        "tuition2025": 3536400.0,
+        "tuition2026": 3536400.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 3792400.0,
+        "tuition2026": 3791107.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립목포대학교",
+    "region": "전남광주",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3873166.5,
+    "tuition2026": 3871285.8,
+    "difference": -1880.7,
+    "rate": -0.048557,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3407503.1,
+        "tuition2026": 3393468.7
+      },
+      "자연과학": {
+        "tuition2025": 4105938.2,
+        "tuition2026": 4097613.2
+      },
+      "예체능": {
+        "tuition2025": 4110482.8,
+        "tuition2026": 4111046.7
+      },
+      "공학": {
+        "tuition2025": 4236000.0,
+        "tuition2026": 4236000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립목포해양대학교",
+    "region": "전남광주",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3409473.1,
+    "tuition2026": 3412114.0,
+    "difference": 2640.9,
+    "rate": 0.077458,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 3920000.0,
+        "tuition2026": 3920000.0
+      },
+      "공학": {
+        "tuition2025": 3401901.4,
+        "tuition2026": 3400734.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립부경대학교",
+    "region": "부산",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4046157.9,
+    "tuition2026": 4049668.0,
+    "difference": 3510.1,
+    "rate": 0.086751,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3416331.8,
+        "tuition2026": 3420890.3
+      },
+      "자연과학": {
+        "tuition2025": 4107729.5,
+        "tuition2026": 4094151.1
+      },
+      "예체능": {
+        "tuition2025": 4262245.1,
+        "tuition2026": 4260365.9
+      },
+      "공학": {
+        "tuition2025": 4349388.0,
+        "tuition2026": 4347303.1
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립순천대학교",
+    "region": "전남광주",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3971633.4,
+    "tuition2026": 3970127.2,
+    "difference": -1506.2,
+    "rate": -0.037924,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3370824.3,
+        "tuition2026": 3372933.0
+      },
+      "자연과학": {
+        "tuition2025": 4151446.2,
+        "tuition2026": 4143322.7
+      },
+      "예체능": {
+        "tuition2025": 4245063.3,
+        "tuition2026": 4249081.6
+      },
+      "공학": {
+        "tuition2025": 4307640.6,
+        "tuition2026": 4307712.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립창원대학교",
+    "region": "경남",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3906256.3,
+    "tuition2026": 3919778.2,
+    "difference": 13521.9,
+    "rate": 0.34616,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3417046.8,
+        "tuition2026": 3444891.0
+      },
+      "자연과학": {
+        "tuition2025": 4041000.0,
+        "tuition2026": 4040965.0
+      },
+      "예체능": {
+        "tuition2025": 4289637.7,
+        "tuition2026": 4299240.1
+      },
+      "공학": {
+        "tuition2025": 4382968.1,
+        "tuition2026": 4382968.7
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립한국교통대학교",
+    "region": "충북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4111989.3,
+    "tuition2026": 4103672.1,
+    "difference": -8317.2,
+    "rate": -0.202267,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3727619.7,
+        "tuition2026": 3715552.4
+      },
+      "자연과학": {
+        "tuition2025": 4131239.9,
+        "tuition2026": 4131278.6
+      },
+      "예체능": {
+        "tuition2025": 4389418.0,
+        "tuition2026": 4375297.3
+      },
+      "공학": {
+        "tuition2025": 4238014.0,
+        "tuition2026": 4235161.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립한국해양대학교",
+    "region": "부산",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3721746.4,
+    "tuition2026": 3722953.1,
+    "difference": 1206.7,
+    "rate": 0.032423,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3284000.0,
+        "tuition2026": 3284000.0
+      },
+      "자연과학": {
+        "tuition2025": 3994000.0,
+        "tuition2026": 3994000.0
+      },
+      "예체능": {
+        "tuition2025": 3994000.0,
+        "tuition2026": 3994000.0
+      },
+      "공학": {
+        "tuition2025": 3808432.4,
+        "tuition2026": 3809785.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국립한밭대학교",
+    "region": "대전",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4479446.5,
+    "tuition2026": 4479849.4,
+    "difference": 402.9,
+    "rate": 0.008994,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3841901.8,
+        "tuition2026": 3842570.2
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 4602162.2,
+        "tuition2026": 4614591.0
+      },
+      "공학": {
+        "tuition2025": 4658763.2,
+        "tuition2026": 4651241.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "국민대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8376923.6,
+    "tuition2026": 8616796.8,
+    "difference": 239873.2,
+    "rate": 2.8635,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7546054.7,
+        "tuition2026": 7887273.1
+      },
+      "자연과학": {
+        "tuition2025": 8244784.0,
+        "tuition2026": 8478001.9
+      },
+      "예체능": {
+        "tuition2025": 9364684.8,
+        "tuition2026": 9640435.5
+      },
+      "공학": {
+        "tuition2025": 9005076.5,
+        "tuition2026": 9259532.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "극동대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7921017.8,
+    "tuition2026": 7846600.1,
+    "difference": -74417.7,
+    "rate": -0.939497,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6776266.4,
+        "tuition2026": 6753068.4
+      },
+      "자연과학": {
+        "tuition2025": 8084540.4,
+        "tuition2026": 8080161.7
+      },
+      "예체능": {
+        "tuition2025": 8351021.0,
+        "tuition2026": 8274331.8
+      },
+      "공학": {
+        "tuition2025": 8661426.7,
+        "tuition2026": 8661494.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "금강대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6598000.0,
+    "tuition2026": 6598000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6598000.0,
+        "tuition2026": 6584923.1
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 6700000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "김천대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7159777.6,
+    "tuition2026": 7387386.5,
+    "difference": 227608.9,
+    "rate": 3.178994,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6561351.5,
+        "tuition2026": 6779116.2
+      },
+      "자연과학": {
+        "tuition2025": 7296974.5,
+        "tuition2026": 7520268.7
+      },
+      "예체능": {
+        "tuition2025": 7313586.2,
+        "tuition2026": 7543200.0
+      },
+      "공학": {
+        "tuition2025": 7325600.0,
+        "tuition2026": 7546854.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "나사렛대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7865196.9,
+    "tuition2026": 7911622.7,
+    "difference": 46425.8,
+    "rate": 0.590269,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7286237.8,
+        "tuition2026": 7371971.6
+      },
+      "자연과학": {
+        "tuition2025": 8724000.0,
+        "tuition2026": 8828800.0
+      },
+      "예체능": {
+        "tuition2025": 8599551.4,
+        "tuition2026": 8661221.7
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "남부대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6565533.5,
+    "tuition2026": 6766873.8,
+    "difference": 201340.3,
+    "rate": 3.066625,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5838050.9,
+        "tuition2026": 6023637.9
+      },
+      "자연과학": {
+        "tuition2025": 6599884.7,
+        "tuition2026": 6809684.2
+      },
+      "예체능": {
+        "tuition2025": 7081374.5,
+        "tuition2026": 7306540.6
+      },
+      "공학": {
+        "tuition2025": 7082164.7,
+        "tuition2026": 7302037.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "남서울대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8356230.6,
+    "tuition2026": 8616388.3,
+    "difference": 260157.7,
+    "rate": 3.113338,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7414040.7,
+        "tuition2026": 7625125.1
+      },
+      "자연과학": {
+        "tuition2025": 9334582.2,
+        "tuition2026": 9607788.3
+      },
+      "예체능": {
+        "tuition2025": 8973922.4,
+        "tuition2026": 9224056.9
+      },
+      "공학": {
+        "tuition2025": 8742378.9,
+        "tuition2026": 8993317.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "단국대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8511519.8,
+    "tuition2026": 8756933.3,
+    "difference": 245413.5,
+    "rate": 2.88331,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7446825.9,
+        "tuition2026": 7718019.8
+      },
+      "자연과학": {
+        "tuition2025": 8826000.0,
+        "tuition2026": 9076000.0
+      },
+      "예체능": {
+        "tuition2025": 9576426.7,
+        "tuition2026": 9847536.4
+      },
+      "공학": {
+        "tuition2025": 9378630.2,
+        "tuition2026": 9647964.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "단국대학교 _제2캠퍼스",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8658564.6,
+    "tuition2026": 8922944.1,
+    "difference": 264379.5,
+    "rate": 3.053387,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7284637.8,
+        "tuition2026": 7544936.5
+      },
+      "자연과학": {
+        "tuition2025": 9198386.2,
+        "tuition2026": 9512619.7
+      },
+      "예체능": {
+        "tuition2025": 8920083.0,
+        "tuition2026": 9185164.1
+      },
+      "공학": {
+        "tuition2025": 9316244.3,
+        "tuition2026": 9566020.8
+      },
+      "의학": {
+        "tuition2025": 10832000.0,
+        "tuition2026": 11140000.0
+      }
+    }
+  },
+  {
+    "school": "대구가톨릭대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7669044.1,
+    "tuition2026": 7904801.4,
+    "difference": 235757.3,
+    "rate": 3.074142,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6212729.5,
+        "tuition2026": 6417017.4
+      },
+      "자연과학": {
+        "tuition2025": 8307453.6,
+        "tuition2026": 8514524.9
+      },
+      "예체능": {
+        "tuition2025": 8895023.1,
+        "tuition2026": 9127160.7
+      },
+      "공학": {
+        "tuition2025": 8378652.4,
+        "tuition2026": 8577034.5
+      },
+      "의학": {
+        "tuition2025": 10080000.0,
+        "tuition2026": 10886000.0
+      }
+    }
+  },
+  {
+    "school": "대구경북과학기술원",
+    "region": "대구",
+    "establishment": "특별법법인",
+    "status": "기존",
+    "tuition2025": 7690000.0,
+    "tuition2026": 7934000.0,
+    "difference": 244000.0,
+    "rate": 3.172952,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 7690000.0,
+        "tuition2026": 7934000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "대구대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7324173.1,
+    "tuition2026": 7556022.7,
+    "difference": 231849.6,
+    "rate": 3.16554,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6284887.2,
+        "tuition2026": 6502316.7
+      },
+      "자연과학": {
+        "tuition2025": 7871166.7,
+        "tuition2026": 8099956.0
+      },
+      "예체능": {
+        "tuition2025": 8667233.5,
+        "tuition2026": 8911638.8
+      },
+      "공학": {
+        "tuition2025": 8443139.4,
+        "tuition2026": 8691308.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "대구예술대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8319377.8,
+    "tuition2026": 8390429.3,
+    "difference": 71051.5,
+    "rate": 0.854048,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8319377.8,
+        "tuition2026": 8390429.3
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "대구한의대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7604772.0,
+    "tuition2026": 7845054.2,
+    "difference": 240282.2,
+    "rate": 3.159624,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6072019.4,
+        "tuition2026": 6246685.6
+      },
+      "자연과학": {
+        "tuition2025": 7968274.9,
+        "tuition2026": 8220359.9
+      },
+      "예체능": {
+        "tuition2025": 7681161.3,
+        "tuition2026": 7956162.2
+      },
+      "공학": {
+        "tuition2025": 8055200.0,
+        "tuition2026": 8189200.0
+      },
+      "의학": {
+        "tuition2025": 9760000.0,
+        "tuition2026": 10044000.0
+      }
+    }
+  },
+  {
+    "school": "대신대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6588923.7,
+    "tuition2026": 6618297.1,
+    "difference": 29373.4,
+    "rate": 0.4458,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6234080.9,
+        "tuition2026": 6249071.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 7396657.9,
+        "tuition2026": 7344838.7
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "대전가톨릭대학교",
+    "region": "세종",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 5760000.0,
+    "tuition2026": 5760000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5760000.0,
+        "tuition2026": 5760000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "대전대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7453927.6,
+    "tuition2026": 7685682.1,
+    "difference": 231754.5,
+    "rate": 3.10916,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6721767.7,
+        "tuition2026": 6937749.6
+      },
+      "자연과학": {
+        "tuition2025": 7621545.5,
+        "tuition2026": 7869912.7
+      },
+      "예체능": {
+        "tuition2025": 7861112.4,
+        "tuition2026": 8091695.9
+      },
+      "공학": {
+        "tuition2025": 7968719.6,
+        "tuition2026": 8213858.6
+      },
+      "의학": {
+        "tuition2025": 9350000.0,
+        "tuition2026": 9624000.0
+      }
+    }
+  },
+  {
+    "school": "대전신학대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 5956000.0,
+    "tuition2026": 6100000.0,
+    "difference": 144000.0,
+    "rate": 2.41773,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5956000.0,
+        "tuition2026": 6100000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "대진대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8009719.7,
+    "tuition2026": 8246988.5,
+    "difference": 237268.8,
+    "rate": 2.962261,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6803479.6,
+        "tuition2026": 7050596.6
+      },
+      "자연과학": {
+        "tuition2025": 8429062.3,
+        "tuition2026": 8681203.1
+      },
+      "예체능": {
+        "tuition2025": 8897442.9,
+        "tuition2026": 9116404.3
+      },
+      "공학": {
+        "tuition2025": 8909544.3,
+        "tuition2026": 9132093.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "덕성여자대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7593288.1,
+    "tuition2026": 7810760.7,
+    "difference": 217472.6,
+    "rate": 2.864011,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6423130.1,
+        "tuition2026": 6590574.8
+      },
+      "자연과학": {
+        "tuition2025": 8819934.8,
+        "tuition2026": 9084594.3
+      },
+      "예체능": {
+        "tuition2025": 8905108.1,
+        "tuition2026": 9127696.3
+      },
+      "공학": {
+        "tuition2025": 8401800.7,
+        "tuition2026": 8280222.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "동국대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8392497.2,
+    "tuition2026": 8656274.3,
+    "difference": 263777.1,
+    "rate": 3.143011,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7380269.2,
+        "tuition2026": 7606564.7
+      },
+      "자연과학": {
+        "tuition2025": 8872540.9,
+        "tuition2026": 9180593.1
+      },
+      "예체능": {
+        "tuition2025": 9356779.8,
+        "tuition2026": 9608311.7
+      },
+      "공학": {
+        "tuition2025": 9664391.3,
+        "tuition2026": 9929717.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "동국대학교(WISE) _분교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8380054.6,
+    "tuition2026": 8417791.5,
+    "difference": 37736.9,
+    "rate": 0.450318,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7366320.1,
+        "tuition2026": 7374580.9
+      },
+      "자연과학": {
+        "tuition2025": 9109574.8,
+        "tuition2026": 9214499.6
+      },
+      "예체능": {
+        "tuition2025": 8919766.3,
+        "tuition2026": 8912364.2
+      },
+      "공학": {
+        "tuition2025": 9631875.5,
+        "tuition2026": 9633092.1
+      },
+      "의학": {
+        "tuition2025": 10709074.4,
+        "tuition2026": 10709074.4
+      }
+    }
+  },
+  {
+    "school": "동덕여자대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7882190.2,
+    "tuition2026": 8126346.6,
+    "difference": 244156.4,
+    "rate": 3.097571,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6314898.6,
+        "tuition2026": 6495876.1
+      },
+      "자연과학": {
+        "tuition2025": 8053097.4,
+        "tuition2026": 8322753.2
+      },
+      "예체능": {
+        "tuition2025": 9150580.8,
+        "tuition2026": 9233316.2
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "동명대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7427185.3,
+    "tuition2026": 7663538.1,
+    "difference": 236352.8,
+    "rate": 3.182266,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6238088.7,
+        "tuition2026": 6307425.5
+      },
+      "자연과학": {
+        "tuition2025": 8033054.1,
+        "tuition2026": 8380838.9
+      },
+      "예체능": {
+        "tuition2025": 7781953.9,
+        "tuition2026": 8061445.8
+      },
+      "공학": {
+        "tuition2025": 8140000.0,
+        "tuition2026": 8300000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "동서대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7311715.9,
+    "tuition2026": 7543205.4,
+    "difference": 231489.5,
+    "rate": 3.166008,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6262971.0,
+        "tuition2026": 6510674.9
+      },
+      "자연과학": {
+        "tuition2025": 8021620.1,
+        "tuition2026": 8252372.3
+      },
+      "예체능": {
+        "tuition2025": 7814572.5,
+        "tuition2026": 8044902.9
+      },
+      "공학": {
+        "tuition2025": 8002664.7,
+        "tuition2026": 8235967.1
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "동신대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7064104.4,
+    "tuition2026": 7249025.9,
+    "difference": 184921.5,
+    "rate": 2.617763,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6259122.7,
+        "tuition2026": 6471673.7
+      },
+      "자연과학": {
+        "tuition2025": 7173979.7,
+        "tuition2026": 7381158.4
+      },
+      "예체능": {
+        "tuition2025": 7263804.0,
+        "tuition2026": 7476168.1
+      },
+      "공학": {
+        "tuition2025": 7566970.0,
+        "tuition2026": 7780221.8
+      },
+      "의학": {
+        "tuition2025": 9498000.0,
+        "tuition2026": 9782000.0
+      }
+    }
+  },
+  {
+    "school": "동아대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7655191.2,
+    "tuition2026": 7896057.5,
+    "difference": 240866.3,
+    "rate": 3.146444,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6512553.6,
+        "tuition2026": 6742915.5
+      },
+      "자연과학": {
+        "tuition2025": 7713871.9,
+        "tuition2026": 8023607.5
+      },
+      "예체능": {
+        "tuition2025": 8370897.3,
+        "tuition2026": 8588957.8
+      },
+      "공학": {
+        "tuition2025": 8740772.3,
+        "tuition2026": 8938293.7
+      },
+      "의학": {
+        "tuition2025": 10925800.0,
+        "tuition2026": 11576800.0
+      }
+    }
+  },
+  {
+    "school": "동양대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7706351.5,
+    "tuition2026": 7942642.8,
+    "difference": 236291.3,
+    "rate": 3.066189,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6416447.2,
+        "tuition2026": 6805608.8
+      },
+      "자연과학": {
+        "tuition2025": 7542611.0,
+        "tuition2026": 7744281.4
+      },
+      "예체능": {
+        "tuition2025": 8430596.7,
+        "tuition2026": 8650878.6
+      },
+      "공학": {
+        "tuition2025": 8019812.9,
+        "tuition2026": 8236573.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "동의대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7346090.8,
+    "tuition2026": 7580400.9,
+    "difference": 234310.1,
+    "rate": 3.189589,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6167765.1,
+        "tuition2026": 6382756.2
+      },
+      "자연과학": {
+        "tuition2025": 7499800.5,
+        "tuition2026": 7908910.0
+      },
+      "예체능": {
+        "tuition2025": 7842883.5,
+        "tuition2026": 8098839.2
+      },
+      "공학": {
+        "tuition2025": 8282909.2,
+        "tuition2026": 8571071.3
+      },
+      "의학": {
+        "tuition2025": 9094000.0,
+        "tuition2026": 9418000.0
+      }
+    }
+  },
+  {
+    "school": "루터대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6334500.0,
+    "tuition2026": 6300000.0,
+    "difference": -34500.0,
+    "rate": -0.544637,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6334500.0,
+        "tuition2026": 6300000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "명지대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9592689.4,
+    "tuition2026": 9829417.3,
+    "difference": 236727.9,
+    "rate": 2.467795,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 8712329.0,
+        "tuition2026": 8911295.4
+      },
+      "예체능": {
+        "tuition2025": 9958595.6,
+        "tuition2026": 10222502.2
+      },
+      "공학": {
+        "tuition2025": 9668650.6,
+        "tuition2026": 9941893.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "명지대학교 _제2캠퍼스",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7445643.1,
+    "tuition2026": 7737615.2,
+    "difference": 291972.1,
+    "rate": 3.921382,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7148217.5,
+        "tuition2026": 7349160.5
+      },
+      "자연과학": {
+        "tuition2025": 8832000.0,
+        "tuition2026": 8878000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9593365.9,
+        "tuition2026": 9859500.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "목원대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7722257.3,
+    "tuition2026": 7965994.0,
+    "difference": 243736.7,
+    "rate": 3.156288,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6753972.6,
+        "tuition2026": 6956369.4
+      },
+      "자연과학": {
+        "tuition2025": 7659121.5,
+        "tuition2026": 7911823.6
+      },
+      "예체능": {
+        "tuition2025": 8417075.7,
+        "tuition2026": 8664045.1
+      },
+      "공학": {
+        "tuition2025": 8488194.4,
+        "tuition2026": 8742351.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "목포가톨릭대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6554800.0,
+    "tuition2026": 6758000.0,
+    "difference": 203200.0,
+    "rate": 3.100018,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5648210.5,
+        "tuition2026": 5805358.5
+      },
+      "자연과학": {
+        "tuition2025": 6837180.3,
+        "tuition2026": 7028000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "배재대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7731641.1,
+    "tuition2026": 7959587.6,
+    "difference": 227946.5,
+    "rate": 2.948229,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6802695.3,
+        "tuition2026": 6976726.3
+      },
+      "자연과학": {
+        "tuition2025": 7697582.5,
+        "tuition2026": 7898608.0
+      },
+      "예체능": {
+        "tuition2025": 8419215.8,
+        "tuition2026": 8629040.5
+      },
+      "공학": {
+        "tuition2025": 8416000.0,
+        "tuition2026": 8626000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "백석대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8362803.7,
+    "tuition2026": 8626213.5,
+    "difference": 263409.8,
+    "rate": 3.149779,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7337352.4,
+        "tuition2026": 7557371.4
+      },
+      "자연과학": {
+        "tuition2025": 8816437.4,
+        "tuition2026": 9042166.9
+      },
+      "예체능": {
+        "tuition2025": 9458861.9,
+        "tuition2026": 9737806.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "부산가톨릭대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7245362.2,
+    "tuition2026": 7470200.0,
+    "difference": 224837.8,
+    "rate": 3.103196,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6270000.0,
+        "tuition2026": 6452000.0
+      },
+      "자연과학": {
+        "tuition2025": 7348668.1,
+        "tuition2026": 7563000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 8022000.0,
+        "tuition2026": 8255000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "부산대학교",
+    "region": "부산",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4472115.7,
+    "tuition2026": 4514543.2,
+    "difference": 42427.5,
+    "rate": 0.948712,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3440565.2,
+        "tuition2026": 3484151.0
+      },
+      "자연과학": {
+        "tuition2025": 4638534.9,
+        "tuition2026": 4753342.6
+      },
+      "예체능": {
+        "tuition2025": 4734852.6,
+        "tuition2026": 4736970.3
+      },
+      "공학": {
+        "tuition2025": 4728000.0,
+        "tuition2026": 4726107.2
+      },
+      "의학": {
+        "tuition2025": 10100000.0,
+        "tuition2026": 10100000.0
+      }
+    }
+  },
+  {
+    "school": "부산외국어대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6734485.2,
+    "tuition2026": 6947305.6,
+    "difference": 212820.4,
+    "rate": 3.160158,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6654071.4,
+        "tuition2026": 6924087.1
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 6933000.0,
+        "tuition2026": 6967440.0
+      },
+      "공학": {
+        "tuition2025": 7762000.0,
+        "tuition2026": 7762000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "부산장신대학교",
+    "region": "경남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6133687.5,
+    "tuition2026": 6316875.0,
+    "difference": 183187.5,
+    "rate": 2.98658,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6133687.5,
+        "tuition2026": 6316875.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "삼육대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8278362.1,
+    "tuition2026": 8537542.9,
+    "difference": 259180.8,
+    "rate": 3.130822,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7286535.9,
+        "tuition2026": 7575661.8
+      },
+      "자연과학": {
+        "tuition2025": 8448999.3,
+        "tuition2026": 8710709.3
+      },
+      "예체능": {
+        "tuition2025": 9176577.6,
+        "tuition2026": 9402935.6
+      },
+      "공학": {
+        "tuition2025": 8771599.3,
+        "tuition2026": 8989438.7
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "상명대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8173318.3,
+    "tuition2026": 8417417.1,
+    "difference": 244098.8,
+    "rate": 2.986532,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7193793.0,
+        "tuition2026": 7460853.3
+      },
+      "자연과학": {
+        "tuition2025": 8390669.9,
+        "tuition2026": 8622168.8
+      },
+      "예체능": {
+        "tuition2025": 9613192.8,
+        "tuition2026": 9856374.4
+      },
+      "공학": {
+        "tuition2025": 9061481.4,
+        "tuition2026": 9241646.1
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "상명대학교 _제2캠퍼스",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8535797.4,
+    "tuition2026": 8772147.7,
+    "difference": 236350.3,
+    "rate": 2.768931,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7011163.7,
+        "tuition2026": 7257256.6
+      },
+      "자연과학": {
+        "tuition2025": 8502345.5,
+        "tuition2026": 8741507.0
+      },
+      "예체능": {
+        "tuition2025": 8988349.3,
+        "tuition2026": 9226742.4
+      },
+      "공학": {
+        "tuition2025": 8841358.2,
+        "tuition2026": 9058814.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "상지대학교",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7859253.5,
+    "tuition2026": 8102877.5,
+    "difference": 243624.0,
+    "rate": 3.099836,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7023046.2,
+        "tuition2026": 7263773.6
+      },
+      "자연과학": {
+        "tuition2025": 8146406.6,
+        "tuition2026": 8397549.3
+      },
+      "예체능": {
+        "tuition2025": 8106854.3,
+        "tuition2026": 8327680.0
+      },
+      "공학": {
+        "tuition2025": 8719839.8,
+        "tuition2026": 8979196.6
+      },
+      "의학": {
+        "tuition2025": 10338000.0,
+        "tuition2026": 10338000.0
+      }
+    }
+  },
+  {
+    "school": "서강대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8439438.6,
+    "tuition2026": 8698676.8,
+    "difference": 259238.2,
+    "rate": 3.071747,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7658999.7,
+        "tuition2026": 7895046.4
+      },
+      "자연과학": {
+        "tuition2025": 8943460.3,
+        "tuition2026": 9211635.3
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9899012.1,
+        "tuition2026": 10146113.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서경대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8422266.4,
+    "tuition2026": 8688695.9,
+    "difference": 266429.5,
+    "rate": 3.163394,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6838090.9,
+        "tuition2026": 6982337.7
+      },
+      "자연과학": {
+        "tuition2025": 7854000.0,
+        "tuition2026": 7854000.0
+      },
+      "예체능": {
+        "tuition2025": 8959122.6,
+        "tuition2026": 9022061.5
+      },
+      "공학": {
+        "tuition2025": 8899395.3,
+        "tuition2026": 9080274.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울과학기술대학교",
+    "region": "서울",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 5494399.4,
+    "tuition2026": 5494477.2,
+    "difference": 77.8,
+    "rate": 0.001416,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 4744838.0,
+        "tuition2026": 4746029.7
+      },
+      "자연과학": {
+        "tuition2025": 5540420.0,
+        "tuition2026": 5540420.0
+      },
+      "예체능": {
+        "tuition2025": 5567222.5,
+        "tuition2026": 5581839.9
+      },
+      "공학": {
+        "tuition2025": 5585268.8,
+        "tuition2026": 5577278.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울기독대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7913735.3,
+    "tuition2026": 8139117.6,
+    "difference": 225382.3,
+    "rate": 2.847989,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7141692.3,
+        "tuition2026": 7322000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8952000.0,
+        "tuition2026": 9238000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울대학교",
+    "region": "서울",
+    "establishment": "국립대법인",
+    "status": "기존",
+    "tuition2025": 6058797.7,
+    "tuition2026": 6091815.7,
+    "difference": 33018.0,
+    "rate": 0.54496,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5030003.4,
+        "tuition2026": 5033654.6
+      },
+      "자연과학": {
+        "tuition2025": 6109490.7,
+        "tuition2026": 6158241.4
+      },
+      "예체능": {
+        "tuition2025": 7392814.0,
+        "tuition2026": 7392814.0
+      },
+      "공학": {
+        "tuition2025": 6161354.9,
+        "tuition2026": 6228872.4
+      },
+      "의학": {
+        "tuition2025": 9896342.9,
+        "tuition2026": 9896342.9
+      }
+    }
+  },
+  {
+    "school": "서울시립대학교",
+    "region": "서울",
+    "establishment": "공립",
+    "status": "기존",
+    "tuition2025": 2529571.5,
+    "tuition2026": 2531600.4,
+    "difference": 2028.9,
+    "rate": 0.080207,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 2160150.8,
+        "tuition2026": 2169633.8
+      },
+      "자연과학": {
+        "tuition2025": 2546035.4,
+        "tuition2026": 2546374.7
+      },
+      "예체능": {
+        "tuition2025": 3078560.6,
+        "tuition2026": 3078560.6
+      },
+      "공학": {
+        "tuition2025": 2848000.0,
+        "tuition2026": 2848000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울신학대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7637187.8,
+    "tuition2026": 7676276.8,
+    "difference": 39089.0,
+    "rate": 0.511825,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7133808.5,
+        "tuition2026": 7157911.9
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 9008687.1,
+        "tuition2026": 9009498.2
+      },
+      "공학": {
+        "tuition2025": 9067637.8,
+        "tuition2026": 9054725.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울여자대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7990814.1,
+    "tuition2026": 8244464.4,
+    "difference": 253650.3,
+    "rate": 3.174274,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7129992.2,
+        "tuition2026": 7348576.3
+      },
+      "자연과학": {
+        "tuition2025": 8453118.4,
+        "tuition2026": 8704725.6
+      },
+      "예체능": {
+        "tuition2025": 9724397.6,
+        "tuition2026": 10017184.1
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울장신대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7728884.6,
+    "tuition2026": 7781326.9,
+    "difference": 52442.3,
+    "rate": 0.678524,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7167828.6,
+        "tuition2026": 7172388.1
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8884000.0,
+        "tuition2026": 8884000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서울한영대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7082277.8,
+    "tuition2026": 7245388.9,
+    "difference": 163111.1,
+    "rate": 2.303088,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7018705.9,
+        "tuition2026": 7222514.3
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8163000.0,
+        "tuition2026": 8046000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "서원대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7340153.8,
+    "tuition2026": 7574190.5,
+    "difference": 234036.7,
+    "rate": 3.188444,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6607487.1,
+        "tuition2026": 6821827.0
+      },
+      "자연과학": {
+        "tuition2025": 7719826.9,
+        "tuition2026": 7975836.4
+      },
+      "예체능": {
+        "tuition2025": 7727973.3,
+        "tuition2026": 7948071.4
+      },
+      "공학": {
+        "tuition2025": 8134761.3,
+        "tuition2026": 8371011.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "선문대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8004005.6,
+    "tuition2026": 8244256.0,
+    "difference": 240250.4,
+    "rate": 3.001627,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7064201.9,
+        "tuition2026": 7343130.4
+      },
+      "자연과학": {
+        "tuition2025": 8511165.5,
+        "tuition2026": 8766150.4
+      },
+      "예체능": {
+        "tuition2025": 8325621.7,
+        "tuition2026": 8573141.9
+      },
+      "공학": {
+        "tuition2025": 8656140.1,
+        "tuition2026": 8914442.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "성결대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7621682.4,
+    "tuition2026": 7857086.3,
+    "difference": 235403.9,
+    "rate": 3.088608,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6810862.0,
+        "tuition2026": 7037293.9
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 9257593.2,
+        "tuition2026": 9529190.9
+      },
+      "공학": {
+        "tuition2025": 8551446.3,
+        "tuition2026": 8803761.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "성공회대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7450011.2,
+    "tuition2026": 7626671.5,
+    "difference": 176660.3,
+    "rate": 2.371276,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7285789.4,
+        "tuition2026": 7479937.8
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 7898721.2,
+        "tuition2026": 8073972.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "성균관대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8905163.3,
+    "tuition2026": 9145523.9,
+    "difference": 240360.6,
+    "rate": 2.699115,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 8107272.1,
+        "tuition2026": 8344582.9
+      },
+      "자연과학": {
+        "tuition2025": 9544152.0,
+        "tuition2026": 9812897.3
+      },
+      "예체능": {
+        "tuition2025": 9326137.3,
+        "tuition2026": 9593166.7
+      },
+      "공학": {
+        "tuition2025": 9603818.6,
+        "tuition2026": 9862845.3
+      },
+      "의학": {
+        "tuition2025": 11892000.0,
+        "tuition2026": 12236000.0
+      }
+    }
+  },
+  {
+    "school": "성신여자대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8404243.1,
+    "tuition2026": 8437832.3,
+    "difference": 33589.2,
+    "rate": 0.39967,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7226960.5,
+        "tuition2026": 7332134.0
+      },
+      "자연과학": {
+        "tuition2025": 8950244.6,
+        "tuition2026": 8961919.6
+      },
+      "예체능": {
+        "tuition2025": 9870472.0,
+        "tuition2026": 9869706.7
+      },
+      "공학": {
+        "tuition2025": 8579667.8,
+        "tuition2026": 8573152.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "세명대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7280563.3,
+    "tuition2026": 7503323.4,
+    "difference": 222760.1,
+    "rate": 3.059655,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6313323.1,
+        "tuition2026": 6507000.0
+      },
+      "자연과학": {
+        "tuition2025": 7593497.7,
+        "tuition2026": 7833218.5
+      },
+      "예체능": {
+        "tuition2025": 7955000.0,
+        "tuition2026": 8193000.0
+      },
+      "공학": {
+        "tuition2025": 7955000.0,
+        "tuition2026": 8037861.4
+      },
+      "의학": {
+        "tuition2025": 9318000.0,
+        "tuition2026": 9597000.0
+      }
+    }
+  },
+  {
+    "school": "세종대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8388326.2,
+    "tuition2026": 8651037.4,
+    "difference": 262711.2,
+    "rate": 3.131867,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6569375.0,
+        "tuition2026": 6760570.1
+      },
+      "자연과학": {
+        "tuition2025": 7986287.9,
+        "tuition2026": 8355370.0
+      },
+      "예체능": {
+        "tuition2025": 8888792.0,
+        "tuition2026": 9143860.0
+      },
+      "공학": {
+        "tuition2025": 9021138.3,
+        "tuition2026": 9243775.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "세한대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7766246.0,
+    "tuition2026": 8013059.4,
+    "difference": 246813.4,
+    "rate": 3.178027,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7286041.6,
+        "tuition2026": 7543134.5
+      },
+      "자연과학": {
+        "tuition2025": 7717290.2,
+        "tuition2026": 8046996.0
+      },
+      "예체능": {
+        "tuition2025": 7831589.0,
+        "tuition2026": 8037394.5
+      },
+      "공학": {
+        "tuition2025": 9073259.9,
+        "tuition2026": 9388097.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "송원대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6895898.1,
+    "tuition2026": 7106105.0,
+    "difference": 210206.9,
+    "rate": 3.048289,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6195349.4,
+        "tuition2026": 6387914.3
+      },
+      "자연과학": {
+        "tuition2025": 7214454.1,
+        "tuition2026": 7426507.2
+      },
+      "예체능": {
+        "tuition2025": 7119826.3,
+        "tuition2026": 7298950.8
+      },
+      "공학": {
+        "tuition2025": 7271000.0,
+        "tuition2026": 7454012.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "수원가톨릭대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 5097000.0,
+    "tuition2026": 5249000.0,
+    "difference": 152000.0,
+    "rate": 2.982146,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5097000.0,
+        "tuition2026": 5249000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "수원대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7941876.5,
+    "tuition2026": 8195102.4,
+    "difference": 253225.9,
+    "rate": 3.18849,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6516050.4,
+        "tuition2026": 6698224.5
+      },
+      "자연과학": {
+        "tuition2025": 7692000.0,
+        "tuition2026": 7906000.0
+      },
+      "예체능": {
+        "tuition2025": 8719402.6,
+        "tuition2026": 8960145.3
+      },
+      "공학": {
+        "tuition2025": 8470000.0,
+        "tuition2026": 8694631.1
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "숙명여자대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8593005.8,
+    "tuition2026": 8825485.2,
+    "difference": 232479.4,
+    "rate": 2.705449,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7513317.8,
+        "tuition2026": 7734063.7
+      },
+      "자연과학": {
+        "tuition2025": 9331286.8,
+        "tuition2026": 9625719.8
+      },
+      "예체능": {
+        "tuition2025": 10111384.9,
+        "tuition2026": 10353786.0
+      },
+      "공학": {
+        "tuition2025": 9860946.0,
+        "tuition2026": 10172966.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "순천향대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8284598.3,
+    "tuition2026": 8540656.9,
+    "difference": 256058.6,
+    "rate": 3.090779,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7433137.1,
+        "tuition2026": 7647712.4
+      },
+      "자연과학": {
+        "tuition2025": 8477490.8,
+        "tuition2026": 8777831.6
+      },
+      "예체능": {
+        "tuition2025": 8157465.8,
+        "tuition2026": 8496704.5
+      },
+      "공학": {
+        "tuition2025": 8748342.3,
+        "tuition2026": 9000750.0
+      },
+      "의학": {
+        "tuition2025": 10536000.0,
+        "tuition2026": 10840000.0
+      }
+    }
+  },
+  {
+    "school": "숭실대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8408228.0,
+    "tuition2026": 8643438.3,
+    "difference": 235210.3,
+    "rate": 2.797383,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7445773.0,
+        "tuition2026": 7690288.6
+      },
+      "자연과학": {
+        "tuition2025": 8624410.1,
+        "tuition2026": 8734029.0
+      },
+      "예체능": {
+        "tuition2025": 9319712.6,
+        "tuition2026": 9592425.3
+      },
+      "공학": {
+        "tuition2025": 9256059.0,
+        "tuition2026": 9557038.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "신경주대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7492471.5,
+    "tuition2026": 7637546.0,
+    "difference": 145074.5,
+    "rate": 1.93627,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6250186.9,
+        "tuition2026": 6390492.3
+      },
+      "자연과학": {
+        "tuition2025": 7846104.0,
+        "tuition2026": 8015513.2
+      },
+      "예체능": {
+        "tuition2025": 8448206.5,
+        "tuition2026": 8536289.8
+      },
+      "공학": {
+        "tuition2025": 7751372.5,
+        "tuition2026": 7833615.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "신라대학교",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7073302.5,
+    "tuition2026": 7298401.8,
+    "difference": 225099.3,
+    "rate": 3.182379,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5986909.9,
+        "tuition2026": 6195400.3
+      },
+      "자연과학": {
+        "tuition2025": 7685264.2,
+        "tuition2026": 7932427.4
+      },
+      "예체능": {
+        "tuition2025": 7830697.4,
+        "tuition2026": 8058163.4
+      },
+      "공학": {
+        "tuition2025": 8408386.9,
+        "tuition2026": 8678445.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "신한대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9525092.6,
+    "tuition2026": 9568571.4,
+    "difference": 43478.8,
+    "rate": 0.456466,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7840000.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 9500000.0,
+        "tuition2026": 9500000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9980000.0,
+        "tuition2026": 9980000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "신한대학교 _제2캠퍼스",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9103881.7,
+    "tuition2026": 9156576.9,
+    "difference": 52695.2,
+    "rate": 0.578821,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7840000.0,
+        "tuition2026": 7840000.0
+      },
+      "자연과학": {
+        "tuition2025": 9500000.0,
+        "tuition2026": 9500000.0
+      },
+      "예체능": {
+        "tuition2025": 9960000.0,
+        "tuition2026": 9960000.0
+      },
+      "공학": {
+        "tuition2025": 9980000.0,
+        "tuition2026": 9980000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "아신대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6900000.0,
+    "tuition2026": 6900000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6900000.0,
+        "tuition2026": 6900000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "아주대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8794887.9,
+    "tuition2026": 9093154.8,
+    "difference": 298266.9,
+    "rate": 3.391367,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7399934.9,
+        "tuition2026": 7640462.7
+      },
+      "자연과학": {
+        "tuition2025": 9005487.9,
+        "tuition2026": 9378681.5
+      },
+      "예체능": {
+        "tuition2025": 7143000.0,
+        "tuition2026": 7347000.0
+      },
+      "공학": {
+        "tuition2025": 9357433.2,
+        "tuition2026": 9618288.1
+      },
+      "의학": {
+        "tuition2025": 11824000.0,
+        "tuition2026": 12154000.0
+      }
+    }
+  },
+  {
+    "school": "안양대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8024922.1,
+    "tuition2026": 8261377.2,
+    "difference": 236455.1,
+    "rate": 2.94651,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7004388.7,
+        "tuition2026": 7208396.3
+      },
+      "자연과학": {
+        "tuition2025": 8445805.6,
+        "tuition2026": 8694356.2
+      },
+      "예체능": {
+        "tuition2025": 8854266.4,
+        "tuition2026": 9114743.8
+      },
+      "공학": {
+        "tuition2025": 8831795.9,
+        "tuition2026": 9046960.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "안양대학교 _제2캠퍼스",
+    "region": "인천",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8845841.4,
+    "tuition2026": 9105397.9,
+    "difference": 259556.5,
+    "rate": 2.934221,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8860241.4,
+        "tuition2026": 9120000.0
+      },
+      "공학": {
+        "tuition2025": 8824241.4,
+        "tuition2026": 9082982.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "연세대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9660089.5,
+    "tuition2026": 9957805.4,
+    "difference": 297715.9,
+    "rate": 3.081917,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 8912458.3,
+        "tuition2026": 9223142.2
+      },
+      "자연과학": {
+        "tuition2025": 9581624.7,
+        "tuition2026": 9825159.3
+      },
+      "예체능": {
+        "tuition2025": 10020845.7,
+        "tuition2026": 10279295.5
+      },
+      "공학": {
+        "tuition2025": 10317152.7,
+        "tuition2026": 10652687.5
+      },
+      "의학": {
+        "tuition2025": 12706000.0,
+        "tuition2026": 13036000.0
+      }
+    }
+  },
+  {
+    "school": "연세대학교(미래) _분교",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9063319.2,
+    "tuition2026": 9304672.8,
+    "difference": 241353.6,
+    "rate": 2.662971,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 8523742.9,
+        "tuition2026": 8743310.6
+      },
+      "자연과학": {
+        "tuition2025": 8917022.6,
+        "tuition2026": 9145773.8
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9678076.9,
+        "tuition2026": 9934829.0
+      },
+      "의학": {
+        "tuition2025": 12706000.0,
+        "tuition2026": 13036000.0
+      }
+    }
+  },
+  {
+    "school": "영남대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7845686.1,
+    "tuition2026": 8072811.3,
+    "difference": 227125.2,
+    "rate": 2.894906,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6266537.1,
+        "tuition2026": 6504718.1
+      },
+      "자연과학": {
+        "tuition2025": 8755451.7,
+        "tuition2026": 9076143.9
+      },
+      "예체능": {
+        "tuition2025": 9306854.6,
+        "tuition2026": 9561870.1
+      },
+      "공학": {
+        "tuition2025": 8630425.6,
+        "tuition2026": 8877191.9
+      },
+      "의학": {
+        "tuition2025": 11238000.0,
+        "tuition2026": 11554000.0
+      }
+    }
+  },
+  {
+    "school": "영남신학대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6614000.0,
+    "tuition2026": 6812000.0,
+    "difference": 198000.0,
+    "rate": 2.99365,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6614000.0,
+        "tuition2026": 6812000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "영산대학교(양산) _제2캠퍼스",
+    "region": "경남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7057917.4,
+    "tuition2026": 7223987.2,
+    "difference": 166069.8,
+    "rate": 2.352958,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6127391.3,
+        "tuition2026": 6510579.1
+      },
+      "자연과학": {
+        "tuition2025": 7998000.0,
+        "tuition2026": 8292000.0
+      },
+      "예체능": {
+        "tuition2025": 7336000.0,
+        "tuition2026": 7606000.0
+      },
+      "공학": {
+        "tuition2025": 8180000.0,
+        "tuition2026": 8480000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "영산대학교(해운대)",
+    "region": "부산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7244899.2,
+    "tuition2026": 7544721.2,
+    "difference": 299822.0,
+    "rate": 4.138387,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6038000.0,
+        "tuition2026": 6262000.0
+      },
+      "자연과학": {
+        "tuition2025": 7842000.0,
+        "tuition2026": 8130000.0
+      },
+      "예체능": {
+        "tuition2025": 7689587.8,
+        "tuition2026": 7944819.8
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "영산선학대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 2000000.0,
+    "tuition2026": 2000000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 2000000.0,
+        "tuition2026": 2000000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "예수대학교",
+    "region": "전북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7273000.0,
+    "tuition2026": 7491000.0,
+    "difference": 218000.0,
+    "rate": 2.997388,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 7273000.0,
+        "tuition2026": 7491000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "예원예술대학교",
+    "region": "전북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8504806.2,
+    "tuition2026": 8665159.6,
+    "difference": 160353.4,
+    "rate": 1.885444,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8504806.2,
+        "tuition2026": 8665159.6
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "예원예술대학교 _제2캠퍼스",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8828407.1,
+    "tuition2026": 9026715.3,
+    "difference": 198308.2,
+    "rate": 2.246251,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8828407.1,
+        "tuition2026": 9026715.3
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "용인대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8160711.2,
+    "tuition2026": 8397852.6,
+    "difference": 237141.4,
+    "rate": 2.905891,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7299067.6,
+        "tuition2026": 7512159.5
+      },
+      "자연과학": {
+        "tuition2025": 8088355.1,
+        "tuition2026": 8324617.0
+      },
+      "예체능": {
+        "tuition2025": 8476336.5,
+        "tuition2026": 8709348.4
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "우석대학교",
+    "region": "전북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7287330.8,
+    "tuition2026": 7519491.2,
+    "difference": 232160.4,
+    "rate": 3.185808,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6356619.4,
+        "tuition2026": 6540022.1
+      },
+      "자연과학": {
+        "tuition2025": 7855513.8,
+        "tuition2026": 8210412.7
+      },
+      "예체능": {
+        "tuition2025": 7294771.5,
+        "tuition2026": 7453884.1
+      },
+      "공학": {
+        "tuition2025": 8305226.7,
+        "tuition2026": 8477883.0
+      },
+      "의학": {
+        "tuition2025": 10041000.0,
+        "tuition2026": 10287000.0
+      }
+    }
+  },
+  {
+    "school": "우송대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7593389.1,
+    "tuition2026": 7817764.1,
+    "difference": 224375.0,
+    "rate": 2.954873,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7553564.8,
+        "tuition2026": 7789460.8
+      },
+      "자연과학": {
+        "tuition2025": 7674829.8,
+        "tuition2026": 7878798.6
+      },
+      "예체능": {
+        "tuition2025": 7747642.9,
+        "tuition2026": 7942204.5
+      },
+      "공학": {
+        "tuition2025": 7547177.2,
+        "tuition2026": 7773603.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "울산과학기술원",
+    "region": "울산",
+    "establishment": "특별법법인",
+    "status": "기존",
+    "tuition2025": 6554198.7,
+    "tuition2026": 6554850.0,
+    "difference": 651.3,
+    "rate": 0.009937,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5591000.0,
+        "tuition2026": 5591000.0
+      },
+      "자연과학": {
+        "tuition2025": 6633000.0,
+        "tuition2026": 6633000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 6633000.0,
+        "tuition2026": 6633000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "울산대학교",
+    "region": "울산",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7730241.2,
+    "tuition2026": 7966453.2,
+    "difference": 236212.0,
+    "rate": 3.055687,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6036000.0,
+        "tuition2026": 6180000.0
+      },
+      "자연과학": {
+        "tuition2025": 8069506.7,
+        "tuition2026": 8499963.5
+      },
+      "예체능": {
+        "tuition2025": 8769190.9,
+        "tuition2026": 8953601.7
+      },
+      "공학": {
+        "tuition2025": 8538343.6,
+        "tuition2026": 8745167.4
+      },
+      "의학": {
+        "tuition2025": 11462000.0,
+        "tuition2026": 11736000.0
+      }
+    }
+  },
+  {
+    "school": "원광대학교",
+    "region": "전북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7864062.3,
+    "tuition2026": 8114465.8,
+    "difference": 250403.5,
+    "rate": 3.184149,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6406252.1,
+        "tuition2026": 6595002.3
+      },
+      "자연과학": {
+        "tuition2025": 8295575.6,
+        "tuition2026": 8583141.4
+      },
+      "예체능": {
+        "tuition2025": 7837933.1,
+        "tuition2026": 7971241.7
+      },
+      "공학": {
+        "tuition2025": 8364987.1,
+        "tuition2026": 8507368.5
+      },
+      "의학": {
+        "tuition2025": 10510053.2,
+        "tuition2026": 11030258.6
+      }
+    }
+  },
+  {
+    "school": "위덕대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7299169.0,
+    "tuition2026": 7312427.9,
+    "difference": 13258.9,
+    "rate": 0.181649,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6360244.5,
+        "tuition2026": 6336101.9
+      },
+      "자연과학": {
+        "tuition2025": 7993705.1,
+        "tuition2026": 7999471.9
+      },
+      "예체능": {
+        "tuition2025": 8428000.0,
+        "tuition2026": 8428000.0
+      },
+      "공학": {
+        "tuition2025": 7988000.0,
+        "tuition2026": 7988000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "유원대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7202405.7,
+    "tuition2026": 7193377.1,
+    "difference": -9028.6,
+    "rate": -0.125355,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6300000.0,
+        "tuition2026": 6325549.8
+      },
+      "자연과학": {
+        "tuition2025": 7880000.0,
+        "tuition2026": 7880000.0
+      },
+      "예체능": {
+        "tuition2025": 7880000.0,
+        "tuition2026": 7880000.0
+      },
+      "공학": {
+        "tuition2025": 7880000.0,
+        "tuition2026": 7880000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "을지대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 10969266.7,
+    "tuition2026": 11280388.9,
+    "difference": 311122.2,
+    "rate": 2.836308,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 11158142.9,
+        "tuition2026": 11411900.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 10804000.0,
+        "tuition2026": 11116000.0
+      }
+    }
+  },
+  {
+    "school": "을지대학교 _제2캠퍼스",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8838078.6,
+    "tuition2026": 9079638.6,
+    "difference": 241560.0,
+    "rate": 2.733173,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 8483028.0,
+        "tuition2026": 8780315.1
+      },
+      "자연과학": {
+        "tuition2025": 8892319.3,
+        "tuition2026": 9133165.1
+      },
+      "예체능": {
+        "tuition2025": 9564000.0,
+        "tuition2026": 9840000.0
+      },
+      "공학": {
+        "tuition2025": 9010363.6,
+        "tuition2026": 9271090.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "을지대학교 _제3캠퍼스",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8682056.0,
+    "tuition2026": 8984798.6,
+    "difference": 302742.6,
+    "rate": 3.486992,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 8462021.0,
+        "tuition2026": 8921071.9
+      },
+      "자연과학": {
+        "tuition2025": 8776000.0,
+        "tuition2026": 9026950.0
+      },
+      "예체능": {
+        "tuition2025": 8482000.0,
+        "tuition2026": 8726000.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "이화여자대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9025874.9,
+    "tuition2026": 9311388.0,
+    "difference": 285513.1,
+    "rate": 3.163273,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7854748.0,
+        "tuition2026": 8085090.9
+      },
+      "자연과학": {
+        "tuition2025": 9558988.5,
+        "tuition2026": 9907258.8
+      },
+      "예체능": {
+        "tuition2025": 10296099.5,
+        "tuition2026": 10597893.8
+      },
+      "공학": {
+        "tuition2025": 9793873.3,
+        "tuition2026": 10070597.3
+      },
+      "의학": {
+        "tuition2025": 13296000.0,
+        "tuition2026": 13688000.0
+      }
+    }
+  },
+  {
+    "school": "인제대학교",
+    "region": "경남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7701980.4,
+    "tuition2026": 7926630.2,
+    "difference": 224649.8,
+    "rate": 2.91678,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6002948.6,
+        "tuition2026": 6204496.3
+      },
+      "자연과학": {
+        "tuition2025": 7968655.7,
+        "tuition2026": 8142347.8
+      },
+      "예체능": {
+        "tuition2025": 7587691.2,
+        "tuition2026": 7648676.8
+      },
+      "공학": {
+        "tuition2025": 8215257.0,
+        "tuition2026": 8483040.2
+      },
+      "의학": {
+        "tuition2025": 10480500.0,
+        "tuition2026": 10927000.0
+      }
+    }
+  },
+  {
+    "school": "인천가톨릭대학교",
+    "region": "인천",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 5446000.0,
+    "tuition2026": 5446000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5446000.0,
+        "tuition2026": 5446000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "인천가톨릭대학교 _제2캠퍼스",
+    "region": "인천",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8842141.8,
+    "tuition2026": 9109951.0,
+    "difference": 267809.2,
+    "rate": 3.028782,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 9038634.8,
+        "tuition2026": 9306500.0
+      },
+      "예체능": {
+        "tuition2025": 8757668.2,
+        "tuition2026": 9020100.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "인천대학교",
+    "region": "인천",
+    "establishment": "국립대법인",
+    "status": "기존",
+    "tuition2025": 4651923.7,
+    "tuition2026": 4650414.5,
+    "difference": -1509.2,
+    "rate": -0.032442,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 4169448.6,
+        "tuition2026": 4169025.6
+      },
+      "자연과학": {
+        "tuition2025": 4537885.2,
+        "tuition2026": 4538166.3
+      },
+      "예체능": {
+        "tuition2025": 4863836.2,
+        "tuition2026": 4863836.2
+      },
+      "공학": {
+        "tuition2025": 5148000.0,
+        "tuition2026": 5148000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "인하대학교",
+    "region": "인천",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8223784.8,
+    "tuition2026": 8490347.9,
+    "difference": 266563.1,
+    "rate": 3.241368,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7149084.0,
+        "tuition2026": 7417345.9
+      },
+      "자연과학": {
+        "tuition2025": 8561005.4,
+        "tuition2026": 8910660.6
+      },
+      "예체능": {
+        "tuition2025": 8664514.8,
+        "tuition2026": 8915933.6
+      },
+      "공학": {
+        "tuition2025": 8878143.6,
+        "tuition2026": 9136050.4
+      },
+      "의학": {
+        "tuition2025": 11098000.0,
+        "tuition2026": 11420000.0
+      }
+    }
+  },
+  {
+    "school": "장로회신학대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7202000.0,
+    "tuition2026": 7308300.0,
+    "difference": 106300.0,
+    "rate": 1.475979,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6265000.0,
+        "tuition2026": 6379135.8
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 9076000.0,
+        "tuition2026": 9238102.6
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "전남대학교",
+    "region": "전남광주",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4193327.5,
+    "tuition2026": 4222785.6,
+    "difference": 29458.1,
+    "rate": 0.702499,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3422465.9,
+        "tuition2026": 3428852.7
+      },
+      "자연과학": {
+        "tuition2025": 4277104.1,
+        "tuition2026": 4271720.0
+      },
+      "예체능": {
+        "tuition2025": 4525349.1,
+        "tuition2026": 4525349.1
+      },
+      "공학": {
+        "tuition2025": 4440000.0,
+        "tuition2026": 4440000.0
+      },
+      "의학": {
+        "tuition2025": 6087333.3,
+        "tuition2026": 6118363.6
+      }
+    }
+  },
+  {
+    "school": "전남대학교 _제2캠퍼스",
+    "region": "전남광주",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4091933.4,
+    "tuition2026": 4089474.5,
+    "difference": -2458.9,
+    "rate": -0.060091,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3489969.7,
+        "tuition2026": 3526660.6
+      },
+      "자연과학": {
+        "tuition2025": 4100000.0,
+        "tuition2026": 4100000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 4368177.7,
+        "tuition2026": 4369234.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "전북대학교",
+    "region": "전북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4447738.3,
+    "tuition2026": 4461484.3,
+    "difference": 13746.0,
+    "rate": 0.309056,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3322000.0,
+        "tuition2026": 3322000.0
+      },
+      "자연과학": {
+        "tuition2025": 4459184.7,
+        "tuition2026": 4496387.4
+      },
+      "예체능": {
+        "tuition2025": 4674090.5,
+        "tuition2026": 4673451.1
+      },
+      "공학": {
+        "tuition2025": 4580101.7,
+        "tuition2026": 4565041.0
+      },
+      "의학": {
+        "tuition2025": 8811637.9,
+        "tuition2026": 8609100.2
+      }
+    }
+  },
+  {
+    "school": "전주대학교",
+    "region": "전북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7326872.5,
+    "tuition2026": 7543384.2,
+    "difference": 216511.7,
+    "rate": 2.955036,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6534339.0,
+        "tuition2026": 6786489.9
+      },
+      "자연과학": {
+        "tuition2025": 7603496.7,
+        "tuition2026": 7855013.0
+      },
+      "예체능": {
+        "tuition2025": 7834388.3,
+        "tuition2026": 8033298.5
+      },
+      "공학": {
+        "tuition2025": 8264000.0,
+        "tuition2026": 8526000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "제주국제대학교",
+    "region": "제주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 5824216.2,
+    "tuition2026": 5819108.1,
+    "difference": -5108.1,
+    "rate": -0.087705,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5498742.9,
+        "tuition2026": 5498000.0
+      },
+      "자연과학": {
+        "tuition2025": 5976000.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 6003627.9,
+        "tuition2026": 6004285.7
+      },
+      "공학": {
+        "tuition2025": 6003529.4,
+        "tuition2026": 6003000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "제주대학교",
+    "region": "제주",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4028696.6,
+    "tuition2026": 4060630.6,
+    "difference": 31934.0,
+    "rate": 0.792663,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3243582.1,
+        "tuition2026": 3255560.5
+      },
+      "자연과학": {
+        "tuition2025": 4327890.2,
+        "tuition2026": 4417705.5
+      },
+      "예체능": {
+        "tuition2025": 4244031.3,
+        "tuition2026": 4244031.3
+      },
+      "공학": {
+        "tuition2025": 4347486.2,
+        "tuition2026": 4347332.9
+      },
+      "의학": {
+        "tuition2025": 8263000.0,
+        "tuition2026": 8263000.0
+      }
+    }
+  },
+  {
+    "school": "조선대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7477306.4,
+    "tuition2026": 7718958.2,
+    "difference": 241651.8,
+    "rate": 3.231803,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6109188.9,
+        "tuition2026": 6278112.4
+      },
+      "자연과학": {
+        "tuition2025": 8025620.3,
+        "tuition2026": 8337921.3
+      },
+      "예체능": {
+        "tuition2025": 7683156.5,
+        "tuition2026": 7913536.1
+      },
+      "공학": {
+        "tuition2025": 8084843.2,
+        "tuition2026": 8326883.0
+      },
+      "의학": {
+        "tuition2025": 11204000.0,
+        "tuition2026": 11540000.0
+      }
+    }
+  },
+  {
+    "school": "중부대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7607472.7,
+    "tuition2026": 7846832.5,
+    "difference": 239359.8,
+    "rate": 3.146377,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7078054.2,
+        "tuition2026": 7311099.9
+      },
+      "자연과학": {
+        "tuition2025": 7729663.2,
+        "tuition2026": 7985988.0
+      },
+      "예체능": {
+        "tuition2025": 8213586.0,
+        "tuition2026": 8463070.8
+      },
+      "공학": {
+        "tuition2025": 8096590.3,
+        "tuition2026": 8336854.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "중앙대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8363819.1,
+    "tuition2026": 8587174.5,
+    "difference": 223355.4,
+    "rate": 2.670495,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7197000.0,
+        "tuition2026": 7375806.6
+      },
+      "자연과학": {
+        "tuition2025": 9017151.2,
+        "tuition2026": 9295128.3
+      },
+      "예체능": {
+        "tuition2025": 9372523.8,
+        "tuition2026": 9604904.8
+      },
+      "공학": {
+        "tuition2025": 9530476.5,
+        "tuition2026": 9768650.5
+      },
+      "의학": {
+        "tuition2025": 11536000.0,
+        "tuition2026": 11824000.0
+      }
+    }
+  },
+  {
+    "school": "중앙대학교 _제2캠퍼스",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9165370.4,
+    "tuition2026": 9386076.4,
+    "difference": 220706.0,
+    "rate": 2.408042,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 8379000.0,
+        "tuition2026": 8587000.0
+      },
+      "예체능": {
+        "tuition2025": 9444286.5,
+        "tuition2026": 9669710.5
+      },
+      "공학": {
+        "tuition2025": 9530715.1,
+        "tuition2026": 9770619.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "중앙승가대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 1820000.0,
+    "tuition2026": 1820000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 1820000.0,
+        "tuition2026": 1820000.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "중원대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7423544.2,
+    "tuition2026": 7659699.5,
+    "difference": 236155.3,
+    "rate": 3.181166,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6304290.9,
+        "tuition2026": 6474411.3
+      },
+      "자연과학": {
+        "tuition2025": 7870916.5,
+        "tuition2026": 8130089.7
+      },
+      "예체능": {
+        "tuition2025": 7441507.1,
+        "tuition2026": 7665668.2
+      },
+      "공학": {
+        "tuition2025": 7854681.5,
+        "tuition2026": 8147442.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "차의과학대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7568914.7,
+    "tuition2026": 7762597.4,
+    "difference": 193682.7,
+    "rate": 2.558923,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7101799.1,
+        "tuition2026": 7218711.8
+      },
+      "자연과학": {
+        "tuition2025": 7942607.1,
+        "tuition2026": 8328511.1
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "창신대학교",
+    "region": "경남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6752313.4,
+    "tuition2026": 6964561.1,
+    "difference": 212247.7,
+    "rate": 3.143333,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5769180.7,
+        "tuition2026": 6014000.0
+      },
+      "자연과학": {
+        "tuition2025": 6994417.4,
+        "tuition2026": 7209661.5
+      },
+      "예체능": {
+        "tuition2025": 7089517.2,
+        "tuition2026": 7308235.3
+      },
+      "공학": {
+        "tuition2025": 7824975.6,
+        "tuition2026": 7717461.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "청주대학교",
+    "region": "충북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8062329.9,
+    "tuition2026": 8319491.0,
+    "difference": 257161.1,
+    "rate": 3.189662,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7281633.2,
+        "tuition2026": 7516247.4
+      },
+      "자연과학": {
+        "tuition2025": 8255529.7,
+        "tuition2026": 8491656.2
+      },
+      "예체능": {
+        "tuition2025": 8505359.4,
+        "tuition2026": 8798827.3
+      },
+      "공학": {
+        "tuition2025": 8684969.6,
+        "tuition2026": 8931423.1
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "초당대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7018931.6,
+    "tuition2026": 7231632.4,
+    "difference": 212700.8,
+    "rate": 3.030387,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6010650.8,
+        "tuition2026": 6091007.3
+      },
+      "자연과학": {
+        "tuition2025": 7109424.5,
+        "tuition2026": 7390178.3
+      },
+      "예체능": {
+        "tuition2025": 6628307.7,
+        "tuition2026": 6887194.2
+      },
+      "공학": {
+        "tuition2025": 8128814.4,
+        "tuition2026": 8295423.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "총신대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7336119.7,
+    "tuition2026": 7556237.0,
+    "difference": 220117.3,
+    "rate": 3.000459,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6933866.6,
+        "tuition2026": 7142163.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 9220750.0,
+        "tuition2026": 9496250.0
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "추계예술대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9600692.0,
+    "tuition2026": 9898886.0,
+    "difference": 298194.0,
+    "rate": 3.105964,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7895238.1,
+        "tuition2026": 8278900.8
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 10175256.7,
+        "tuition2026": 10474002.7
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "충남대학교",
+    "region": "대전",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4387467.0,
+    "tuition2026": 4401836.0,
+    "difference": 14369.0,
+    "rate": 0.327501,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3373207.0,
+        "tuition2026": 3374159.4
+      },
+      "자연과학": {
+        "tuition2025": 4297501.3,
+        "tuition2026": 4340093.4
+      },
+      "예체능": {
+        "tuition2025": 4589432.7,
+        "tuition2026": 4589432.7
+      },
+      "공학": {
+        "tuition2025": 4844000.0,
+        "tuition2026": 4815481.5
+      },
+      "의학": {
+        "tuition2025": 8308317.1,
+        "tuition2026": 8308317.1
+      }
+    }
+  },
+  {
+    "school": "충북대학교",
+    "region": "충북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4286467.0,
+    "tuition2026": 4305681.0,
+    "difference": 19214.0,
+    "rate": 0.448248,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3515090.2,
+        "tuition2026": 3520974.1
+      },
+      "자연과학": {
+        "tuition2025": 4363621.8,
+        "tuition2026": 4379995.9
+      },
+      "예체능": {
+        "tuition2025": 4448214.3,
+        "tuition2026": 4448214.3
+      },
+      "공학": {
+        "tuition2025": 4597009.4,
+        "tuition2026": 4597348.4
+      },
+      "의학": {
+        "tuition2025": 7477557.9,
+        "tuition2026": 7362713.6
+      }
+    }
+  },
+  {
+    "school": "칼빈대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8113055.6,
+    "tuition2026": 8030000.0,
+    "difference": -83055.6,
+    "rate": -1.023728,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7461176.5,
+        "tuition2026": 7462500.0
+      },
+      "자연과학": {
+        "tuition2025": 8780000.0,
+        "tuition2026": 8780000.0
+      },
+      "예체능": {
+        "tuition2025": 8680000.0,
+        "tuition2026": 8680000.0
+      },
+      "공학": {
+        "tuition2025": 8400000.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "평택대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7952521.6,
+    "tuition2026": 8198774.1,
+    "difference": 246252.5,
+    "rate": 3.096534,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7121487.1,
+        "tuition2026": 7403725.7
+      },
+      "자연과학": {
+        "tuition2025": 8266000.0,
+        "tuition2026": 8496000.0
+      },
+      "예체능": {
+        "tuition2025": 9186000.0,
+        "tuition2026": 9442000.0
+      },
+      "공학": {
+        "tuition2025": 8600723.4,
+        "tuition2026": 8845946.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "포항공과대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 5613500.0,
+    "tuition2026": 5613500.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 5613500.0,
+        "tuition2026": 5613500.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한경국립대학교",
+    "region": "경기",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 4020513.3,
+    "tuition2026": 4021297.0,
+    "difference": 783.7,
+    "rate": 0.019493,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3604640.0,
+        "tuition2026": 3604640.0
+      },
+      "자연과학": {
+        "tuition2025": 3967440.0,
+        "tuition2026": 3967440.0
+      },
+      "예체능": {
+        "tuition2025": 4330040.0,
+        "tuition2026": 4330040.0
+      },
+      "공학": {
+        "tuition2025": 4148840.0,
+        "tuition2026": 4148840.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국공학대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9450433.9,
+    "tuition2026": 9449101.3,
+    "difference": -1332.6,
+    "rate": -0.014101,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7943904.6,
+        "tuition2026": 7948127.8
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9614481.5,
+        "tuition2026": 9607286.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국과학기술원",
+    "region": "대전",
+    "establishment": "특별법법인",
+    "status": "기존",
+    "tuition2025": 6866000.0,
+    "tuition2026": 6866000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6866000.0,
+        "tuition2026": 6866000.0
+      },
+      "자연과학": {
+        "tuition2025": 6866000.0,
+        "tuition2026": 6866000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 6866000.0,
+        "tuition2026": 6866000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국교원대학교",
+    "region": "충북",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3350393.8,
+    "tuition2026": 3456068.7,
+    "difference": 105674.9,
+    "rate": 3.154104,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3030000.0,
+        "tuition2026": 3126000.0
+      },
+      "자연과학": {
+        "tuition2025": 3664685.7,
+        "tuition2026": 3780571.4
+      },
+      "예체능": {
+        "tuition2025": 4009333.3,
+        "tuition2026": 4136000.0
+      },
+      "공학": {
+        "tuition2025": 3796000.0,
+        "tuition2026": 3916000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국기술교육대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 4475315.8,
+    "tuition2026": 4475287.1,
+    "difference": -28.7,
+    "rate": -0.000641,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 3303000.0,
+        "tuition2026": 3302304.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 4727500.0,
+        "tuition2026": 4720913.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국성서대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7490682.3,
+    "tuition2026": 7506665.2,
+    "difference": 15982.9,
+    "rate": 0.21337,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7086000.0,
+        "tuition2026": 7086000.0
+      },
+      "자연과학": {
+        "tuition2025": 8372000.0,
+        "tuition2026": 8372000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 7908000.0,
+        "tuition2026": 7908000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국에너지공과대학교",
+    "region": "전남광주",
+    "establishment": "특별법법인",
+    "status": "기존",
+    "tuition2025": 9000000.0,
+    "tuition2026": 9000000.0,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9000000.0,
+        "tuition2026": 9000000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국외국어대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7594228.1,
+    "tuition2026": 7791804.0,
+    "difference": 197575.9,
+    "rate": 2.601659,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7359601.2,
+        "tuition2026": 7537100.5
+      },
+      "자연과학": {
+        "tuition2025": 8217302.5,
+        "tuition2026": 8425138.4
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 8913031.9,
+        "tuition2026": 9113343.3
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국전통문화대학교",
+    "region": "충남",
+    "establishment": "특별법국립",
+    "status": "기존",
+    "tuition2025": 3382410.7,
+    "tuition2026": 3483232.1,
+    "difference": 100821.4,
+    "rate": 2.980756,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 2891833.3,
+        "tuition2026": 2977500.0
+      },
+      "자연과학": {
+        "tuition2025": 3756500.0,
+        "tuition2026": 3868500.0
+      },
+      "예체능": {
+        "tuition2025": 3538500.0,
+        "tuition2026": 3644500.0
+      },
+      "공학": {
+        "tuition2025": 3621000.0,
+        "tuition2026": 3729000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국체육대학교",
+    "region": "서울",
+    "establishment": "국립",
+    "status": "기존",
+    "tuition2025": 3860074.8,
+    "tuition2026": 3860074.8,
+    "difference": 0.0,
+    "rate": 0.0,
+    "changeType": "동결",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 3860074.8,
+        "tuition2026": 3860074.8
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국침례신학대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6032225.3,
+    "tuition2026": 5989978.1,
+    "difference": -42247.2,
+    "rate": -0.700358,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5695028.2,
+        "tuition2026": 5699845.0
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 7615300.0,
+        "tuition2026": 7607113.1
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한국항공대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8935459.5,
+    "tuition2026": 9210265.3,
+    "difference": 274805.8,
+    "rate": 3.075452,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7108000.0,
+        "tuition2026": 7322000.0
+      },
+      "자연과학": {
+        "tuition2025": 8552320.0,
+        "tuition2026": 8628074.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 9246759.9,
+        "tuition2026": 9507931.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한남대학교",
+    "region": "대전",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7657067.8,
+    "tuition2026": 7869677.4,
+    "difference": 212609.6,
+    "rate": 2.776645,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6868430.0,
+        "tuition2026": 7040189.9
+      },
+      "자연과학": {
+        "tuition2025": 7865944.1,
+        "tuition2026": 8087378.7
+      },
+      "예체능": {
+        "tuition2025": 8659058.4,
+        "tuition2026": 8880540.7
+      },
+      "공학": {
+        "tuition2025": 8722218.9,
+        "tuition2026": 8945099.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한동대학교",
+    "region": "경북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7471730.5,
+    "tuition2026": 7413037.9,
+    "difference": -58692.6,
+    "rate": -0.785529,
+    "changeType": "하락",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6995911.7,
+        "tuition2026": 7125377.9
+      },
+      "자연과학": {
+        "tuition2025": 8136000.0,
+        "tuition2026": 8136000.0
+      },
+      "예체능": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "공학": {
+        "tuition2025": 8136000.0,
+        "tuition2026": 8136000.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한라대학교",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7532127.5,
+    "tuition2026": 7767468.5,
+    "difference": 235341.0,
+    "rate": 3.124496,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6214814.8,
+        "tuition2026": 6439008.4
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8148822.3,
+        "tuition2026": 8453225.1
+      },
+      "공학": {
+        "tuition2025": 8149604.7,
+        "tuition2026": 8441442.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한림대학교",
+    "region": "강원",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7971522.3,
+    "tuition2026": 8226649.5,
+    "difference": 255127.2,
+    "rate": 3.200483,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7016695.2,
+        "tuition2026": 7222725.0
+      },
+      "자연과학": {
+        "tuition2025": 8293176.1,
+        "tuition2026": 8531516.8
+      },
+      "예체능": {
+        "tuition2025": 8536206.3,
+        "tuition2026": 8782206.3
+      },
+      "공학": {
+        "tuition2025": 8864277.1,
+        "tuition2026": 9126185.2
+      },
+      "의학": {
+        "tuition2025": 10888291.7,
+        "tuition2026": 11200468.3
+      }
+    }
+  },
+  {
+    "school": "한서대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8366237.5,
+    "tuition2026": 8525200.1,
+    "difference": 158962.6,
+    "rate": 1.900049,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7786924.7,
+        "tuition2026": 7952193.5
+      },
+      "자연과학": {
+        "tuition2025": 8346892.6,
+        "tuition2026": 8499351.2
+      },
+      "예체능": {
+        "tuition2025": 8361876.0,
+        "tuition2026": 8486261.6
+      },
+      "공학": {
+        "tuition2025": 8873789.2,
+        "tuition2026": 9028718.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한성대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7793161.1,
+    "tuition2026": 8033733.0,
+    "difference": 240571.9,
+    "rate": 3.086962,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6786471.7,
+        "tuition2026": 7003044.9
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 8662377.4,
+        "tuition2026": 8919330.1
+      },
+      "공학": {
+        "tuition2025": 8566029.8,
+        "tuition2026": 8814267.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한세대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8598513.3,
+    "tuition2026": 8859564.3,
+    "difference": 261051.0,
+    "rate": 3.036002,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7528722.6,
+        "tuition2026": 7816077.4
+      },
+      "자연과학": {
+        "tuition2025": 8640000.0,
+        "tuition2026": 8877500.0
+      },
+      "예체능": {
+        "tuition2025": 9959822.0,
+        "tuition2026": 10233376.1
+      },
+      "공학": {
+        "tuition2025": 9272000.0,
+        "tuition2026": 9528769.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한신대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7641273.8,
+    "tuition2026": 7882204.1,
+    "difference": 240930.3,
+    "rate": 3.153012,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7270761.9,
+        "tuition2026": 7497991.7
+      },
+      "자연과학": {
+        "tuition2025": 8243447.9,
+        "tuition2026": 8487170.2
+      },
+      "예체능": {
+        "tuition2025": 8244300.0,
+        "tuition2026": 8482250.0
+      },
+      "공학": {
+        "tuition2025": 8678484.5,
+        "tuition2026": 8915642.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한양대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9016311.6,
+    "tuition2026": 9289910.8,
+    "difference": 273599.2,
+    "rate": 3.034491,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7466805.8,
+        "tuition2026": 7659372.8
+      },
+      "자연과학": {
+        "tuition2025": 8981732.5,
+        "tuition2026": 9218764.9
+      },
+      "예체능": {
+        "tuition2025": 9793064.5,
+        "tuition2026": 10048625.0
+      },
+      "공학": {
+        "tuition2025": 9807885.6,
+        "tuition2026": 10105084.6
+      },
+      "의학": {
+        "tuition2025": 11352000.0,
+        "tuition2026": 11646000.0
+      }
+    }
+  },
+  {
+    "school": "한양대학교(ERICA) _분교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 9004779.7,
+    "tuition2026": 9281769.8,
+    "difference": 276990.1,
+    "rate": 3.076034,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7414100.8,
+        "tuition2026": 7605548.8
+      },
+      "자연과학": {
+        "tuition2025": 9332928.6,
+        "tuition2026": 9700226.1
+      },
+      "예체능": {
+        "tuition2025": 9586364.1,
+        "tuition2026": 9831849.1
+      },
+      "공학": {
+        "tuition2025": 9678392.2,
+        "tuition2026": 9925309.5
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "한일장신대학교",
+    "region": "전북",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6810205.5,
+    "tuition2026": 6852602.7,
+    "difference": 42397.2,
+    "rate": 0.622554,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 6020063.3,
+        "tuition2026": 6020845.1
+      },
+      "자연과학": {
+        "tuition2025": 7280000.0,
+        "tuition2026": 7280000.0
+      },
+      "예체능": {
+        "tuition2025": 7234109.6,
+        "tuition2026": 7220845.1
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "협성대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7896848.6,
+    "tuition2026": 8135252.7,
+    "difference": 238404.1,
+    "rate": 3.018978,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7027916.3,
+        "tuition2026": 7301520.0
+      },
+      "자연과학": {
+        "tuition2025": 8931406.7,
+        "tuition2026": 9217062.1
+      },
+      "예체능": {
+        "tuition2025": 9045497.1,
+        "tuition2026": 9333934.8
+      },
+      "공학": {
+        "tuition2025": 9047465.3,
+        "tuition2026": 9334325.8
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "호남대학교",
+    "region": "전남광주",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 6581105.5,
+    "tuition2026": 6788793.8,
+    "difference": 207688.3,
+    "rate": 3.155827,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 5938948.2,
+        "tuition2026": 6141574.7
+      },
+      "자연과학": {
+        "tuition2025": 6769616.5,
+        "tuition2026": 7070417.2
+      },
+      "예체능": {
+        "tuition2025": 6852069.5,
+        "tuition2026": 7076313.3
+      },
+      "공학": {
+        "tuition2025": 6890115.3,
+        "tuition2026": 6947796.6
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "호서대학교",
+    "region": "충남",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8164909.4,
+    "tuition2026": 8412408.0,
+    "difference": 247498.6,
+    "rate": 3.031247,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7168131.9,
+        "tuition2026": 7391111.1
+      },
+      "자연과학": {
+        "tuition2025": 8280456.5,
+        "tuition2026": 8533004.1
+      },
+      "예체능": {
+        "tuition2025": 8682813.3,
+        "tuition2026": 8935004.4
+      },
+      "공학": {
+        "tuition2025": 8665180.7,
+        "tuition2026": 8920461.4
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "홍익대학교",
+    "region": "서울",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8836668.5,
+    "tuition2026": 9101269.7,
+    "difference": 264601.2,
+    "rate": 2.994355,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7238597.1,
+        "tuition2026": 7455804.1
+      },
+      "자연과학": {
+        "tuition2025": 7239800.0,
+        "tuition2026": 7473800.0
+      },
+      "예체능": {
+        "tuition2025": 9653790.7,
+        "tuition2026": 9940883.3
+      },
+      "공학": {
+        "tuition2025": 9347585.5,
+        "tuition2026": 9628893.2
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "홍익대학교 _제2캠퍼스",
+    "region": "세종",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 8975828.6,
+    "tuition2026": 9244386.3,
+    "difference": 268557.7,
+    "rate": 2.99201,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7239323.9,
+        "tuition2026": 7453560.8
+      },
+      "자연과학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "예체능": {
+        "tuition2025": 9481371.4,
+        "tuition2026": 9763584.8
+      },
+      "공학": {
+        "tuition2025": 9375095.4,
+        "tuition2026": 9649495.9
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  },
+  {
+    "school": "화성의과학대학교",
+    "region": "경기",
+    "establishment": "사립",
+    "status": "기존",
+    "tuition2025": 7704138.4,
+    "tuition2026": 7748928.3,
+    "difference": 44789.9,
+    "rate": 0.581375,
+    "changeType": "상승",
+    "majors": {
+      "인문사회": {
+        "tuition2025": 7210792.8,
+        "tuition2026": 7238309.5
+      },
+      "자연과학": {
+        "tuition2025": 8237894.7,
+        "tuition2026": 8285606.8
+      },
+      "예체능": {
+        "tuition2025": 7570907.8,
+        "tuition2026": 7599447.5
+      },
+      "공학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      },
+      "의학": {
+        "tuition2025": 0.0,
+        "tuition2026": 0.0
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+:root {
+  --color-navy: #17365D;
+  --color-blue: #2F5597;
+  --color-sky: #5B9BD5;
+  --color-orange: #ED7D31;
+  --color-increase: #C00000;
+  --color-decrease: #548235;
+  --color-background: #F4F7FB;
+  --color-surface: #FFFFFF;
+  --color-text: #172033;
+  --color-muted: #667085;
+  --color-line: #DDE5EF;
+  --shadow: 0 3px 12px rgba(23,54,93,.06);
+}
